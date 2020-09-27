@@ -20,6 +20,7 @@
 - [Marie](https://github.com/samirm00/PinkPanther/blob/Marie/Marie.md)
 - [Samir](https://github.com/samirm00/PinkPanther/blob/samir/Samir.md)
 
+---
 ## Development strategy
 
 ---
