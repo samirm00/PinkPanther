@@ -1,4 +1,4 @@
-# PinkPant
+# PinkPanther
 
 ## Development strategy
 
