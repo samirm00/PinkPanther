@@ -8,4 +8,4 @@
 
 - He is from India
 - he is 32 yrs old
-- He is a PhD in **AI**
+- He is a PhD student in **AI**
