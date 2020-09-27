@@ -33,7 +33,7 @@
 
 4- switch to each branch and create md file with the info.
 
-5- add each file to its branch and commit them.
+5- add each file to its branch and commit it.
 
 6- add the different links to README.md file.
 
