@@ -23,9 +23,9 @@
 
 4- switch to each branch and create md file with the info.
 
-5- add each file to its branch and commit it
+5- add each file to its branch and commit it.
 
-6- add the different links to README.md file
+6- add the different links to README.md file.
 
 7- push all the files to the repo on GitHub.
 
