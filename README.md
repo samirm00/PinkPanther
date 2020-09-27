@@ -25,9 +25,14 @@
 
 5- add each file to its branch and commit it
 
-6- push all the files to the repo on GitHub.
+6- add the different links to README.md file
+
+7- push all the files to the repo on GitHub.
 
 ---
 
 > **WE LOVE CODING**
-> ![unicorn](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdEnhkp3LcpVe3Spr4f39PAe46Idlsr2KFrm-KSY53hdWvivIndFooEIJI-IIeCF-8ouwmBe9y&usqp=CAc)
+
+---
+
+![unicorn](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdEnhkp3LcpVe3Spr4f39PAe46Idlsr2KFrm-KSY53hdWvivIndFooEIJI-IIeCF-8ouwmBe9y&usqp=CAc)
