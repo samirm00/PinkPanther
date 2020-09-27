@@ -4,12 +4,21 @@
 
 ### Information about Group 2(unicorn)
 
+---
+
+### Coach
+
+- [Unmesh](https://github.com/samirm00/PinkPanther/blob/Unmesh/Unmesh.md)
+
+---
+
+### Students , HYF
+
 - [Houcinos](https://github.com/samirm00/PinkPanther/blob/Houcinos/Houcinos.md)
 - [Krystyna](https://github.com/samirm00/PinkPanther/blob/krystyna/Krystyna.md)
 - [Maria](https://github.com/samirm00/PinkPanther/blob/Maria/Maria.md)
 - [Marie](https://github.com/samirm00/PinkPanther/blob/Marie/Marie.md)
 - [Samir](https://github.com/samirm00/PinkPanther/blob/samir/Samir.md)
-- [Solomon](https://github.com/samirm00/PinkPanther/blob/master/Solomon.md)
 
 ## Development strategy
 
