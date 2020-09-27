@@ -8,5 +8,5 @@
 
 - She is 36 yrs old
 - She is from Ukrine
-- she is psychologist
+- she is a psychologist
 - she is a coder
